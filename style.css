@@ -1,0 +1,41 @@
+#body {
+	background: #37474f;
+	font-family: 'Quicksand', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #fff;
+}
+
+.borders {
+	border-bottom: dashed 1px #fff;
+}
+
+.background {
+	background-color: #37474f;
+}
+
+.background h1 {
+	font-weight: 600;
+	letter-spacing: 2px;
+}
+
+#paragraph {
+	font-size: 20px;
+}
+
+#input {
+	font-size: 18px;
+	font-weight: 600;
+	color: #37474f;
+}
+
+#output {
+	font-size: 18px;
+	font-weight: 600;
+	color: #37474f;
+}
+
+.dropdown {
+	font-size: 18px;
+	font-weight: 600;
+	color: #37474f;
+}
