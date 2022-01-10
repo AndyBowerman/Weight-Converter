@@ -4,6 +4,6 @@ I've used a Bootstrap layout to keep the page appearance simple and responsive a
 
 I wanted to give users the option of which weight units to convert between.
 
-The algorithums required are simple, I used if statements to call the required functions based on the users selections.
+The algorithms required are simple, I used if statements to call the required functions based on the users selections.
 
 My aim is for the code to be as simple as possible to achieve my desired tasks.
